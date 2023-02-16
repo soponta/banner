@@ -7,7 +7,7 @@ if (ad==1) {
 txt="Make Money from home - honeygain";
 url="https://r.honeygain.me/HEBER7463C";
 alt="Honeygain";
-banner="";
+banner="https://cdn.statically.io/gh/soponta/banner/main/honeygain_727x90.png";
 width="100%";
 height="100%";
 }
@@ -31,7 +31,7 @@ if (ad==4) {
 txt="EARN BITCOIN BY VIEWING ADS";
 url="https://faucetpay.io/?r=685712";
 alt="Faucetpay";
-banner="https://faucetcrypto.com/banners/468x60.gif";
+banner="https://cdn.statically.io/gh/soponta/banner/main/honeygain_727x90.png";
 width="100%";
 height="100%";
 }
